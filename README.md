@@ -16,6 +16,10 @@ npm install
 sudo mongod
 
 ```
+### run application server
+```
+npm start
+```
 ## API routes
 
 ### 1- localhost:9050/contacts/getList
